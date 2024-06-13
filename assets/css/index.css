@@ -1,0 +1,31 @@
+body{
+    font-family: "Public Sans", sans-serif;
+}
+
+.cabecalho,
+.cabecalho-logo{
+    display: flex;
+    align-items: center;
+}
+
+.cabecalho{
+    justify-content: space-between;
+    padding: 1.5rem;
+}
+
+.menu{
+    display: flex;
+    align-items: center;
+    gap: .6rem;
+
+    font-size: .9rem;
+    line-height: 1.1rem;
+}
+
+.menu li:hover{
+    background-color: #5BC241;
+    color: #fff;
+
+    padding: .1rem;
+}
+
