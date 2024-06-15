@@ -10,7 +10,7 @@
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
-![Design preview for the 3-column preview card component coding challenge](./assets/design/fundo-design.jpg)
+![image](https://github.com/KaueACLima/projeto-menu-flexbox/assets/56000639/2ecf0341-97d1-430f-b8df-ee897ceb4270)
 
 ## 🚀 Tecnologias
 
