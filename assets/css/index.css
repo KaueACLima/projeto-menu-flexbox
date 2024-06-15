@@ -39,3 +39,15 @@ body{
     padding: .3rem;
     border: none;
 }
+
+@media screen and (max-width: 48em) {
+    .cabecalho,
+    .menu{
+        flex-direction: column;
+        
+    }
+
+    .menu li .btn-cadastro{
+        font-size: .6rem;
+    }
+}
